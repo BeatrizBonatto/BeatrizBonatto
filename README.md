@@ -26,9 +26,15 @@ This repository was created to store activities carried out during the course.
 
 <div>
   <a href="https://github.com/BeatrizBonatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizBonatto&show_icons=true&theme=tokyonight"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizBonatto&show_icons=true&rank_icon=github&theme=tokyonight"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBonatto&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
 
 ##
 
+<!-- 
+https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#demo-3 
+https://github.com/simple-icons/simple-icons/blob/master/slugs.md
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#face-glasses
+https://github.com/iuricode/padroes-de-commits
+-->
