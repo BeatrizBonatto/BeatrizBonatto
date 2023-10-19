@@ -26,8 +26,8 @@ This repository was created to store activities carried out during the course.
 
 <div>
   <a href="https://github.com/BeatrizBonatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BeatrizBonatto&show_icons=true&rank_icon=github&theme=tokyonight"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBonatto&layout=compact&langs_count=168&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BeatrizBonatto&show_icons=true&rank_icon=github&theme=tokyonight"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizBonatto&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
 
 ##
