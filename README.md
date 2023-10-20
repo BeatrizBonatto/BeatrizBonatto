@@ -4,7 +4,7 @@
 
 I'm a Database student at Fatec-SJC :woman_student: 
 
-This repository was created to store activities carried out during the course.
+This repository was created to store activities carried out during my career.
 
 
 <h3>:smile: Talk to me</h3>
