@@ -32,6 +32,8 @@ This repository was created to store activities carried out during my career.
 
 ##
 
+### Projects where I collaborated: [Aval360-1Sem2023](https://github.com/iNineBD/Aval360-1Sem2023) and [SGTG-2Sem2023](https://github.com/iNineBD/SGTG-2Sem2023).
+
 <!-- 
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#demo-3 
 https://github.com/simple-icons/simple-icons/blob/master/slugs.md
