@@ -32,7 +32,7 @@ This repository was created to store activities carried out during my career.
 
 ##
 
-### Projects where I collaborated: [Avalição 360](https://github.com/iNineBD/Aval360-1Sem2023), [SGTG](https://github.com/iNineBD/SGTG-2Sem2023), [DataFlow-3Sem2024](https://github.com/iNineBD/DataFlow-3Sem2024) and [GeoTrack](https://github.com/iNineBD/GeoTrack-4Sem2024).
+### Projects where I collaborated: [Aval360](https://github.com/iNineBD/Aval360-1Sem2023), [SGTG](https://github.com/iNineBD/SGTG-2Sem2023), [DataFlow-3Sem2024](https://github.com/iNineBD/DataFlow-3Sem2024) and [GeoTrack](https://github.com/iNineBD/GeoTrack-4Sem2024).
 
 <!-- 
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#demo-3 
