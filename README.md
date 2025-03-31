@@ -11,7 +11,7 @@ This repository was created to store activities carried out during my career.
 <p>
     <a href="https://www.linkedin.com/in/beatriz-bonatto-263530156/"><img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=4B70F1"></img></a>&nbsp;
     <a href="https://instagram.com/bea_ybonatto?igshid=NzZlODBkYWE4Ng=="><img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=4B70F1"></img></a>&nbsp;
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=mclaralvs@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Microsoft Outlook-151515?style=for-the-badge&logo=microsoftoutlook&logoColor=4B70F1"></img></a>&nbsp;
+   <a href="https://mail.google.com/mail/u/0/?fs=1&to=biakemibonatto@gmail.com&su=&body=&bcc=&tf=cm"><img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=EA4335"></a>
     <a href="https://discord.com/users/519221184244613123"><img src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=4B70F1"></img></a>&nbsp;
 </p>
 
@@ -32,7 +32,7 @@ This repository was created to store activities carried out during my career.
 
 ##
 
-### Projects where I collaborated: [Aval360](https://github.com/iNineBD/Aval360-1Sem2023), [SGTG](https://github.com/iNineBD/SGTG-2Sem2023), [DataFlow](https://github.com/iNineBD/DataFlow-3Sem2024) and [GeoTrack](https://github.com/iNineBD/GeoTrack-4Sem2024).
+### Projects where I collaborated: [Aval360](https://github.com/iNineBD/Aval360-1Sem2023), [SGTG](https://github.com/iNineBD/SGTG-2Sem2023), [DataFlow](https://github.com/iNineBD/DataFlow-3Sem2024), [GeoTrack](https://github.com/iNineBD/GeoTrack-4Sem2024) and [DashFlow](https://github.com/manolito-fatec/dashflow-2025-1).
 
 <!-- 
 https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#demo-3 
